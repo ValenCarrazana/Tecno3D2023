@@ -1,0 +1,38 @@
+{   "audio" : "audios/alciciaaudio.mp3",
+    "modelo":"modelos/alciaaa.glb",
+    "fondo":"rgb(0,20,50)",
+    "data" :
+        [
+            {
+                 "tiempo":"00:00",
+                 "camara":"Inicio",
+                 "duracion":1000,
+                 "target":"flor",
+                 "nombre":"Primera cosa"
+            },
+            {
+                 "tiempo":"00:02",
+                 "camara":"c2",
+                 "target":"telefono",
+                 "nombre":"Segunda cosa"
+            },
+            {
+                 "tiempo":"00:06",
+                 "camara":"c2",
+                 "target":"telefono2",
+                 "nombre":"Tercera cosa"
+            },
+            {
+                 "tiempo":"00:09",
+                 "camara":"c1",
+                 "duracion":1000,
+                 "target":"t2"
+            },
+            {
+                 "tiempo":"00:11",
+                 "camara":"c3",
+                 "duracion":3000,
+                 "target":"t3"
+            }
+        ]
+}
